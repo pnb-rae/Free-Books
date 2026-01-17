@@ -39,7 +39,7 @@ to test simply run `rspec`
 👤 **Ryan Waweru**
 
 - GitHub{@pnb_rae}](https://github.com/Pnb_rae)
-- Twitter: [@MrBrN197](https://twitter.com/MrBrN197)
+- Twitter: [Pnb_rae](https://x.com/PnbRae)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ryan-waweru/)
 
 
